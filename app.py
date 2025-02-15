@@ -1,4 +1,6 @@
 import streamlit as st
+import os
+os.system("pip install pickle5")
 import pickle
 import re
 import nltk
